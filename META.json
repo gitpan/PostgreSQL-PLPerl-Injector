@@ -1,0 +1,25 @@
+{
+   "resources" : {
+      "repository" : "git@github.com:timbunce/posgtresql-plperl-injector.git"
+   },
+   "meta-spec" : {
+      "version" : 1.4,
+      "url" : "http://module-build.sourceforge.net/META-spec-v1.4.html"
+   },
+   "generated_by" : "Dist::Zilla version 1.100660",
+   "version" : "1.002",
+   "name" : "PostgreSQL-PLPerl-Injector",
+   "author" : [
+      "Tim Bunce <Tim.Bunce@pobox.com>"
+   ],
+   "license" : "perl",
+   "build_requires" : {},
+   "requires" : {
+      "DBI" : "1.605"
+   },
+   "abstract" : "Inject subs and code into the PostgreSQL plperl language",
+   "configure_requires" : {
+      "ExtUtils::MakeMaker" : "6.11"
+   }
+}
+

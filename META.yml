@@ -1,0 +1,18 @@
+---
+abstract: 'Inject subs and code into the PostgreSQL plperl language'
+author:
+  - 'Tim Bunce <Tim.Bunce@pobox.com>'
+build_requires: {}
+configure_requires:
+  ExtUtils::MakeMaker: 6.11
+generated_by: 'Dist::Zilla version 1.100660'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: PostgreSQL-PLPerl-Injector
+requires:
+  DBI: 1.605
+resources:
+  repository: git@github.com:timbunce/posgtresql-plperl-injector.git
+version: 1.002

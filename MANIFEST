@@ -1,0 +1,14 @@
+Changes
+LICENSE
+MANIFEST
+META.json
+META.yml
+Makefile.PL
+README
+lib/PostgreSQL/PLPerl/Injector.pm
+t/00-load.t
+t/10-plperl8.t
+t/11-plperl9.t
+t/12-plperl0.t
+t/release-pod-coverage.t
+t/release-pod-syntax.t
